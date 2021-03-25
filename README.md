@@ -5,13 +5,12 @@ Application for an e-commerce site back end. Built using Express.js API to use S
 <br />
 
 ![E-Commerce Back End](https://github.com/FAC-73/NOMC15/blob/main/assets/screenRecord.png?raw=true)
-Watch the [video](https://github.com/FAC-73/NOMC15/raw/main/assets/application_video.mov)
+Watch the [video](https://drive.google.com/file/d/1MnX1TKSeZnrkm2WWYOwy_A2LwmL_cR61/view?usp=sharing)
 <br />
 
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
@@ -47,7 +46,7 @@ A back end application for an e-commerce site allowing users to view all product
 <br><br>
 This application is configured with an Express.js API, and uses Sequelize to interact with a MySQL database.
 <br><br>
-As this application isn't deployed, use this link to watch the [video](https://github.com/FAC-73/NOMC15/raw/main/assets/application_video.mov) demonstrating the full functionality of the application
+As this application isn't deployed, use this link to watch the [video](https://drive.google.com/file/d/1MnX1TKSeZnrkm2WWYOwy_A2LwmL_cR61/view?usp=sharing) demonstrating the full functionality of the application
 
 
 ## Installation
@@ -58,24 +57,14 @@ git clone https://github.com/FAC-73/NOMC15.git
 ```
 Navigate to the NOMC15 folder directory using the command prompt.
 
-Run `npm install` to install all dependencies. in terminal or bash, and then open http://localhost:3306 [or whatever terminal port you have specified] in your preferred browser. 
-
+Run `npm install` to install all dependencies. in terminal or bash, and then open http://localhost:3001 [or whatever terminal port you have specified] in your preferred browser. 
+<br><br>
 Run `node seeds` to seed the data
-Run `npm start` to run the application in terminal or bash 
-Run `npm start` to run the application in terminal or bash 
+<br><br>
+Run `npm start` to run the application in terminal or bash
+<br><br>
+Run `Open` Insomnia to run the server requests
 
-## Usage
-
-![Employee tracker app](https://github.com/FAC-73/NOMC15/blob/main/assets/screenRecord.png?raw=true)
-<br />
-1. Appplication run from server.js
-<br />
-
-![schema](https://github.com/FAC-73/NOMC15/blob/main/assets/database.png?raw=true)
-<br />
-
-2. Data for application pulled from employees database schema, stored in employees.sql and data from seeds.sql
-<br />
 
 ## Licence
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
