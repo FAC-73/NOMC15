@@ -57,13 +57,13 @@ git clone https://github.com/FAC-73/NOMC15.git
 ```
 Navigate to the NOMC15 folder directory using the command prompt.
 
-Run `npm install` to install all dependencies. in terminal or bash, and then open http://localhost:3001 [or whatever terminal port you have specified] in your preferred browser. 
+Run `npm install` to install all dependencies. in terminal or bash.
 <br><br>
 Run `node seeds` to seed the data
 <br><br>
 Run `npm start` to run the application in terminal or bash
 <br><br>
-Run `Open` Insomnia to run the server requests
+Use http://localhost:3001 [or whatever terminal port you have specified] in Insomnia to run the server requests
 
 
 ## Licence
