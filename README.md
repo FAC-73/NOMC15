@@ -4,7 +4,7 @@
 Application for an e-commerce site back end. Built using Express.js API to use Sequelize to interact with a MySQL database.
 <br />
 
-![E-Commerce Back End](https://github.com/FAC-73/NOMC15/blob/main/assets/screenRecord.png?raw=true)
+![E-Commerce Back End](https://github.com/FAC-73/NOMC15/blob/main/assets/Application_demo.png?raw=true)
 Watch the [video](https://drive.google.com/file/d/1MnX1TKSeZnrkm2WWYOwy_A2LwmL_cR61/view?usp=sharing)
 <br />
 
@@ -57,7 +57,7 @@ git clone https://github.com/FAC-73/NOMC15.git
 ```
 Navigate to the NOMC15 folder directory using the command prompt.
 
-Run `npm install` to install all dependencies. in terminal or bash.
+Run `npm install` to install all dependencies. in terminal or bash
 <br><br>
 Run `node seeds` to seed the data
 <br><br>
